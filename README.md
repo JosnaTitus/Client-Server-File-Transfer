@@ -2,7 +2,7 @@
  
 > Brief about the program:-
 
-              	A simple file transfer server written in Python 3, that allows the user to download files located on the server. The server can handle and serve multiple clients at the same time and send files in the same/child directories.
+	A simple file transfer server written in Python 3, that allows the user to download files located on the server. The server can handle and serve multiple clients at the same time and send files in the same/child directories.
 	
 > Instructions to run the command:-
 
